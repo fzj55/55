@@ -1,1 +1,1 @@
-FROM python:3.10-alpine
+FROM docker.io/calico/cni:v3.28.0 
