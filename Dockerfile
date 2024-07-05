@@ -1,1 +1,1 @@
-FROM docker.io/rocketmq-exporter
+FROM docker.io/apache/rocketmq-exporter
