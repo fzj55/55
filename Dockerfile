@@ -1,1 +1,1 @@
-FROM mysql:8.0.28-debian
+FROM kindest/node:v1.27.3
