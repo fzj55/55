@@ -1,1 +1,1 @@
-FROM kindest/node:v1.27.3
+FROM debian:unstable-slim
