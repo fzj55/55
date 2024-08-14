@@ -1,1 +1,1 @@
-FROM java:openjdk-8u111-jre-alpine
+FROM maven:3.5.0-jdk-8-alpine
