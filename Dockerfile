@@ -1,1 +1,1 @@
-FROM kindest/node:v1.28.13
+FROM gcr.io/tekton-releases/github.com/tektoncd/dashboard/cmd/dashboard:v0.49.0@sha256:ac2bdd8c96e828cb5bce48e5d989b2c35c805d95fb273378864e09395b664d73
