@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/powershell:lts-nanoserver-1809
+FROM kindest/node:v1.28.13
