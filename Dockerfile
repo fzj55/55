@@ -1,1 +1,1 @@
-FROM eosphorosai/dbgpt
+FROM eosphorosai/dbgpt-allinone
