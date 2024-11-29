@@ -1,1 +1,1 @@
-FROM bitnami/zookeeper
+FROM bitnami/kafka
