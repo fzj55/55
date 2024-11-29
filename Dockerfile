@@ -1,1 +1,1 @@
-FROM eosphorosai/dbgpt-allinone
+FROM bitnami/zookeeper
